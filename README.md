@@ -1,6 +1,6 @@
 # Algoritma dan Pemrograman 2026
 
-* **Nama**: Aulia Sifa Maulana Rahayu
+* **Nama**: Aulia Sifa Maulani Rahayu
 * **NIM**: [2225250008]
 * **Kelas**: S1 Pendidikan Matematika
 
